@@ -88,3 +88,4 @@ This project is a highly secure, feature-rich Python server with:
 ---
 
 **Disclaimer:** This project is for educational and research purposes. Use responsibly and only on systems you own or have permission to test. Remeber nothing is fireproof.
+**Cyborg Tek** LISCENSE covers any Project that we create. This means, we try our best to secure and protect, however nothing is fireproof and we are not responsible, liable, etc for any tyoe of claim, suit, or criminal charge,
